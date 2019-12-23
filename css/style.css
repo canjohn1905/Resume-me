@@ -841,6 +841,9 @@ a:hover {
 .jumbotron.text-center{
   background-color: dodgerblue;
 }
+.jumbText {
+  color: white;
+}
 
 /*======================================
 //--//-->   TESTIMONIALS
