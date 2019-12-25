@@ -2,7 +2,9 @@
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
-
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width: 100%;
+}
 
 #btn05 {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);

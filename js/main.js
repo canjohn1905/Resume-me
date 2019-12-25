@@ -1,4 +1,7 @@
-
+$(function () {
+	$("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+	});
+	
 (function ($) {
 	"use strict";
 	var nav = $('nav');
